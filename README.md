@@ -1,7 +1,7 @@
-❇ ## Aspiring Business Analyst (2026 Summer Graduate at GMU 👩‍🎓) ❇
+❇ Aspiring Business Analyst (2026 Summer Graduate at GMU 👩‍🎓) ❇
 
 * Currently embarking on learning Python, SQL, R, and Tableau! 📈📊
-* Check out my Data Visualization and Machine Learning Project [here](final_project_template.docx)📬
+* Check out my Data Visualization and Machine Learning Project [here](final_project_template.pdf)📬
 <!--
 **JasaGellert/JasaGellert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
